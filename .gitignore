@@ -72,20 +72,6 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-### VirtualEnv template
-# Virtualenv
-# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
-.Python
-[Bb]in
-[Ii]nclude
-[Ll]ib
-[Ll]ib64
-[Ll]ocal
-[Ss]cripts
-pyvenv.cfg
-.venv
-pip-selfcheck.json
-
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -226,3 +212,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/python_basic_10_09_2020.iml
+.idea/vcs.xml
